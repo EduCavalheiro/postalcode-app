@@ -7,7 +7,7 @@ const useStyles = makeStyles((theme) => ({
   root: {
     minHeight: "100vh",
     backgroundImage: `url(${process.env.PUBLIC_URL + "/assets/bg.jpg"})`,
-    backgroundRepeat: "none",
+    // backgroundRepeat: "none",
     backgroundSize: "cover",
   },
 }));
