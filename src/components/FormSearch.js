@@ -4,7 +4,6 @@ import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import { FormControl, InputAdornment, TextField } from "@material-ui/core";
 import RoomIcon from "@material-ui/icons/Room";
-import CardPostalCode from "./CardPostalCode";
 
 const useStyles = makeStyles((theme) => ({
   root: {
